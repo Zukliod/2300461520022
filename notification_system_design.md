@@ -1,7 +1,7 @@
 ﻿# Stage 1: Priority Inbox System Design & Implementation
 
 ## 1. Problem Statement & Objectives
-To mitigate information fatigue caused by high volumes of campus broadcasts, this stage introduces a Priority Inbox algorithm. The system dynamically tracks and displays the top $ (where  \in \{5, 10, 15, 20\}$) most critical unread notifications. Priority is computed deterministically using a compounded evaluation matrix balancing static category weight and chronological recency.
+To mitigate information fatigue caused by high volumes of campus broadcasts, this stage introduces a Priority Inbox algorithm. The system dynamically tracks and displays the top most critical unread notifications. Priority is computed deterministically using a compounded evaluation matrix balancing static category weight and chronological recency.
 
 ## 2. Priority Sorting Criteria & Logic Mechanics
 The system defines a strict, non-overlapping priority mapping based on the notification's category type:
