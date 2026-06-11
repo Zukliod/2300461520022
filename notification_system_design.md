@@ -110,3 +110,6 @@ This view showcases the application core layout running under the All Logs view 
 This view showcases the production-ready Priority Inbox layout handling strict mathematical weight matrices and real-time density limits safely.
 
 ![Prioritized Stream Interface](2..png)
+
+
+## DUE TO CLOSURE OF API BEFORE I TAKE SCREENSHOT OF NOTIFICATION IMAGES DO NOT HAVE NOTIFICATIONS BUT ITS WORKKING....
