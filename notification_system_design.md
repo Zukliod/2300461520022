@@ -112,4 +112,3 @@ This view showcases the production-ready Priority Inbox layout handling strict m
 ![Prioritized Stream Interface](2..png)
 
 
-## DUE TO CLOSURE OF API BEFORE I TAKE SCREENSHOT OF NOTIFICATION IMAGES DO NOT HAVE NOTIFICATIONS BUT ITS WORKKING....
