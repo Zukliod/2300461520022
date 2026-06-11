@@ -1,7 +1,5 @@
-# System Architecture Report: Notification Dashboard
 
-<<<<<<< HEAD
-## Phase 1 — Stage 1: Priority Inbox Sorting Logic
+## Stage 1: Priority Inbox Sorting Logic
 
 ### 1. Problem Statement & Functional Goals
 
@@ -94,7 +92,7 @@ export function getPriorityNotifications(notifications, limit = 10) {
 
 ---
 
-## Phase 2 — Stage 2: Real-Time Ingestion Architecture
+## Stage 2: Real-Time Ingestion Architecture
 
 ### 1. The Scaling Bottleneck
 
